@@ -3,4 +3,4 @@ from page import views
 
 urlpatterns = [
     path('', views.index, name='index'),
-]
+] 
